@@ -2,8 +2,6 @@
 
 손 움직임을 실시간으로 감지하여 아두이노 로봇팔을 제어하는 프로젝트입니다.
 
-## 필요한 것들
-
 ### Python (PC)
 - Python 3.8 이상
 - OpenCV (`pip install opencv-python`)
